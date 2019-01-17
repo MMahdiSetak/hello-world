@@ -10,4 +10,4 @@ Hi!!!
 */
 
 
-I'm interested in learning and working on back end but i like designing too.
+I'm interested in learning.
