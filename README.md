@@ -1,6 +1,13 @@
 # hello-world
 
-hi everyone
+Hi!!!
 
-I have just entered the university in CE and
+/*
+  this world is a lie
+  and I will die
+  so never mind
+  and just smile ;)
+*/
+
+
 I'm interested in learning and working on back end but i like designing too.
